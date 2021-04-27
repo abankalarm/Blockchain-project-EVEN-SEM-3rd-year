@@ -1,4 +1,4 @@
-Welcome to my gist for the even sem project IIIrd year
+Welcome to my gist for the even sem project IIIrd year as part of intro to blockchain course
 
 # Setup
 
