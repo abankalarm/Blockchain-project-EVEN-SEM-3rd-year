@@ -20,6 +20,7 @@ truffle migrate
 truffle console
 
 > dealList = await DealList.deployed()
+
 should return undefined
 
 > dealList
