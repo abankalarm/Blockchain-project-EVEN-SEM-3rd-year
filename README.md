@@ -1,5 +1,3 @@
-# Blockchain-project-EVEN-SEM-3rd-year
-  GNU nano 5.2                                   help.md
 ## Setup
 
 # init folder
